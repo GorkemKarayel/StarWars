@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StarWars</string>
+
+    <string name="welcome_message">A long time ago in galaxy far, far away..</string>
+    <string name="welcome_label_name">Name..</string>
+    <string name="welcome_button_label_name">Go to Dark Side</string>
+
+    <string name="movie_list_top_bar_name">Welcome %s, Jedi..</string>
+</resources>
